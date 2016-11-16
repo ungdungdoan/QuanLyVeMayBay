@@ -1,0 +1,6 @@
+SoCB;SanBay;ChangBay;NgayBay;NhaGa;SoGhe;Quay;TinhTrang
+VN001;Tân Sơn Nhất;Hà Nội - TPHCM;20;T1;180;09;Sắp khởi hành
+VN002;Nội Bài;Hà Nội - TPHCM;10;T1;220;02;Delay
+VN003;Tân Sơn Nhất;TPHCM - Lôn Đôn;14;T1;190;19;Sắp khởi hành
+VN004;Nội Bài;Hà Nội - Gia Lai;16;T1;220;14;Đã khởi hành
+VN005;Tân Sơn Nhất;TPHCM - Singapore;07;T1;200;17;Đã khởi hành
